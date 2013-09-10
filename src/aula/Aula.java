@@ -7,6 +7,6 @@ public class Aula {
         
         System.out.println("hello world 123");
                 
-             
+             x=10;
     }
 }
